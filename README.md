@@ -1,8 +1,5 @@
 
 **Traffic Flow Prediction**
-![image](https://github.com/user-attachments/assets/8727eeab-80ca-4d65-8e0a-ab7e99233262)
-
-
 Predicts **traffic congestion patterns** based on weather, time of day, and road conditions using **LSTM Neural Networks**. Helps optimize traffic signals and reduce congestion.
 
 **Project Overview**  
@@ -22,3 +19,7 @@ Predictive modeling for smarter urban planning
 **Results**  
 LSTM model successfully predicts traffic trends, aiding transport systems.  
 Weather & peak hours significantly affect congestion patterns.
+
+
+![image](https://github.com/user-attachments/assets/35914106-4175-4807-a5ba-99377c267d28)
+
